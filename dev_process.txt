@@ -1,0 +1,157 @@
+PLACELL
+Strategy game
+
+Paluyan Brylov
+
+
+PROJECT IDEA:
+Android / IOS mobile game
+create your strategy
+assemble your cell
+learn a little bit about biology
+different locations
+evolve
+
+
+DEV PROCESS:
+analysis of existing games with a similar ideas
+thinking about possible game aspects
+conceptual design (will be presented in a final presentation)
+creating visual concept (poster)
+making a survey about game aspects
+collecting new ideas and opinions from possible users
+creating UI mockup
+testing UI mockup - to be doen 
+production - to be done
+
+
+1.Analysis of existing games:
+
+What we’ve found?
+What could be done better?
+
+Cell to Singularity - Evolution Never Ends
+rating: 4.4
+5m+ downloads
+Evolve from a simple cell to a complex creature
+- bad (too old) visuals
++ possibility to see an evolution process
+	
+Cell Lab: Evolution Sandbox 
+rating; 4.2
+1m+ downloads
+Create your own microorganism and survive
++ you are a God
++ simulation
+- difficult UI
+- unpleasant UI visuals
+
+Cell World
+rating 4.5
+100k+ downloads
+Explore the inside of a human cell
++ educational purposes
++ visualising of different cell’s organelles
+- old graphics
+- old UI
+
+
+COMMON PROBLEMS:
+- old or hard UI
+- old visuals
+
+By mentioning word combinations like "old UI", "old graphics" or "old visuals" above
+we understand not following the latest design principles and trends, which can be seen 
+on the platforms such as Behance or awwwards.com. Also we mentioned "unpleasant UI visuals", 
+what is for us connected to using color pallets, which consist of bad color combinations 
+(main color, accent color, contrasts, darkness or lightness of colours).
+We suppose that the problem, why are these apps looking old now is the fact that 
+they were made few years ago, when the principles and trends were different, 
+or it's just a result of bad designing from the begging. Consequently, from our 
+side as designers, is very important to "upgrade" those old ideas and looks and give 
+them a modern taste.
+
+IDEAS:
+- simple, clean and fresh UI
+- educational purposes?
+- sort of simulation
+- adding metabolismus (chemical processes)
+
+SURVEY RESULTS AND USERS’ OPINIONS AND IDEAS:
+Now let's talk about the survey we've made to find out what do possible users think about our concept.
+
+1.
+We are truly happy due of the fact, that only 5% said, that they don't really 
+want to try such type of a strategy game. 56% answered yes, what is also 
+great result for us, coz we know, that we have a big amount of possible users, 
+who will at least try our game out.
+
+2.
+85% agreed, that they want to choose the map, where they want to play 
+(this feature is added in our first prototype). Also we have some ideas from users: 
+- sort of progression through different locations (not all maps will be accessible in the beginning) 
+- predefined starting positions on the map.
+
+3.
+Most of the users are interested in Cold Ocean, Mountain River and Wild Swamp locations. 
+In the prototype we've added them.
+
+4.
+63% answered, that they want to assemble the cell on their own, 30% maybe, 
+and a few of them think, that it could be hard. Therefore, we are trying to make 
+a process of the cell assembling as simple as possible, so it won't take much user's time and effort.
+
+5.
+53% agreed with the idea of having a metabolism system in the game, 
+30% will try to get used to it, rest of them think, that it will be too hard understand. 
+In accordance with this results we've managed to choose the most visual 
+and easy way of understanding, how the cell is working inside. We've chosen a node 
+based model, where each organelle in the cell is represented by a node, which has 
+some inputs and outputs. Organelle consumes resources, which are visually represented 
+by colours and icons and produces by-products and other resources as it's output.
+
+6.
+82% finds obligatory to have mutations in the game. Each organelle will have some 
+possible mutations, which will be accessible with time,  coincidentally, or by achieving 
+different milestones.
+
+7.
+33% consider the possibility of using our game for educational purposes, 50% doubt. 
+As a result we believe, that we may create a different version of our game, which will 
+respect all biological aspects and will have a complete educational materials inside.
+
+8.
+Open question about the game goals and what we've as developers found interesting:
+- survival as long as possible
+- exploration
+- being at the top of the food chain
+- endless mode
+- to kill everyone
+- adaptation to the given environment
+- balance
+
+
+UI:
+The main idea is to create an UI which will be as simple as possible, which will 
+not disturb users’ eyes. We've found choosing  pastel tones 
+(no high contrasts and oversaturated colors) as a good idea.
+
+PORTRAITS OF OUR USERS:
+1.Dima, 16 years old
+- student in the middle school
+- owner of a middle price segment Anroid smartphone, enough productive for playing games on it
+- likes different strategy games
+- most of the time he spends at school or at home
+2.Alfred, 22 years old
+- university student
+- owner of the latest IPhone, which is enough productive for playing games on it
+- don’t really like strategy games,  but is interested in discovering new things around him
+- has a passion for creation something by himself
+- plays simulation games
+3.David, 27 years old
+- works as a manager in the small company
+- owner of the old generation IPhone
+- wants to find a way how to spend time on his way to and back from work
+- not really interested in biology
+
+
