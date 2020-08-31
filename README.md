@@ -12,8 +12,8 @@ regarding immediate actions as well as long-term strategy needed to survive.<br>
 ## Guide
 
 - Dev process doc (in progress) dev_process.txt
-- Concept poster DONE concept.pdf
-- Survey DONE https://forms.gle/iaQFFagkaQkBfBQ58
+- Concept poster concept.pdf
+- Survey https://forms.gle/iaQFFagkaQkBfBQ58
 - Info doc about game (big one) Placell.pdf
 - Final presentation ui_presentation.jpg
 - Design outputs (in progress) in **design** folder
